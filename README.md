@@ -1,4 +1,9 @@
-# transire_test_backend
+ # Transire test backend
+
+## Requirements
+Java 1.8
+Maven 3.x
+MySQL or mariaDB 5.5 above
 
 ## Instructions to building
 Clone this project
